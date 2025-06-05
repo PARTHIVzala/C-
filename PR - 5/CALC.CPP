@@ -29,7 +29,5 @@ int main() {
         default:
             cout << "Error: Invalid operator!" << endl;
     }
-
     return 0;
 }
-
