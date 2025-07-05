@@ -138,7 +138,7 @@ Delete at position
     			cin >> data;
     			list.search(data);
     			break;
-    		case 5:
+    	case 5:
                 cout << "Enter position to delete (starting from 0): ";
                 cin >> position;
                 list.deleteNode(position);
